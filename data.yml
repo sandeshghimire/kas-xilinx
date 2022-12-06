@@ -1,0 +1,84 @@
+manifest:
+  remote:
+    _fetch: 'https://github.com/Xilinx'
+
+    - _name: meta-browser
+
+      _path: sources/meta-browser
+
+
+    - _name: meta-clang
+      _path: sources/meta-clang
+
+
+    - _name: meta-jupyter
+      _path: sources/meta-jupyter
+
+
+    - _name: meta-mingw
+      _path: sources/meta-mingw
+
+
+    - _name: meta-openamp
+      _path: sources/meta-openamp
+
+
+    - _name: meta-openembedded
+      _path: sources/meta-openembedded
+
+
+    - _name: meta-petalinux
+      _path: sources/meta-petalinux
+
+
+    - _name: meta-python2
+      _path: sources/meta-python2
+
+
+    - _name: meta-qt5
+      _path: sources/meta-qt5
+
+
+    - _name: meta-security
+      _path: sources/meta-security
+
+
+    - _name: meta-som
+      _path: sources/meta-som
+
+
+    - _name: meta-virtualization
+      _path: sources/meta-virtualization
+
+
+    - _name: meta-xilinx
+      _path: sources/meta-xilinx
+
+
+    - _name: meta-xilinx-tools
+      _path: sources/meta-xilinx-tools
+
+
+    - _name: poky
+      _path: sources/core
+
+
+    - _name: yocto-manifests
+      _path: sources/manifest
+
+      _name: yocto-scripts
+      _path: sources/yocto-scripts
+
+
+    - _name: meta-ros
+      _path: sources/meta-ros
+
+
+    - _name: meta-xilinx-tsn
+      _path: sources/meta-xilinx-tsn
+
+
+    - _name: meta-vitis
+      _path: sources/meta-vitis
+
+
